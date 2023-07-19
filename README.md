@@ -1,7 +1,8 @@
 # Merkly-nft-bridger
+Скрипт написан Tawer95, подписывайтесь: https://t.me/tawer_crypt Если кто-то хочет отблагодарить донатом - Ethereum, Arbitrum, Optimism, BSC - 0xbA041fAdCf46A383FA156De69e679493601892aD
 ## Скрипт минтит и бриджит nft через Merkly и LZ
 ### Скрипт минтит из сетей: ethereum / arbitrum / polygon / optimism / bsc / fantom / avalanche / nova / polygon_zk / zksync.
-### Скрипт бриджит ТОЛЬКО ИЗ ЭТИХ сетей: ethereum / arbitrum / polygon / bsc / fantom / avalanche, т.к. библиотека Moralis не работает в других сетях.
+### Скрипт бриджит ТОЛЬКО ИЗ ЭТИХ сетей: ethereum / arbitrum / polygon / bsc / fantom / avalanche, т.к. библиотека Moralis не работает в других сетях. Посылать можно в любые указанные в комментариях в файле config.py.
 
 В текущий момент скрипт минтит только 1 nft и посылает в другую сеть. В обновлениях планирую добавлять мультиминт и мультибридж.
 
